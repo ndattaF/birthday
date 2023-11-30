@@ -1,0 +1,46 @@
+body{
+  font-family:'Happy Monkey',cursive ;
+  text-align: center;
+  background-color: #a2d2ff;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#main-pic{
+  width: 200px;
+  border-radius: 50%;
+  border: 6px solid #EFB0C9;
+}
+#main ,h2,h3,h4,p{
+  text-shadow: 0px 0px 10px black;
+}
+#bday-age{
+  background: #EFB0C9;
+  padding: 5px 15px;
+  border-radius: 10%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#bday-date{
+  background: #EFB0C9;
+  border-radius: 10%;
+  padding: 5px 5px;
+  margin-top: 0px;
+}
+#header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.gift-img{
+  width: 400px;
+  border: 6px solid white;
+  border-radius: 5%;
+}
+.gift-section{
+  margin-top: 50px;
+}
+
